@@ -4,10 +4,18 @@
     <Filter Include="main">
       <UniqueIdentifier>{72cc9d5f-6057-4852-877b-e5e2150d123c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="doublylinkedlist">
+      <UniqueIdentifier>{f7c52ff2-8155-4618-9a68-41e93c53c2cd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="doublylinkedlist.h">
+      <Filter>doublylinkedlist</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
